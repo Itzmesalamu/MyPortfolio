@@ -12,6 +12,6 @@ export const personalData = {
   twitter: 'https://twitter.com/itzmesalamu',
   stackOverflow: 'https://stackoverflow.com/users/16840768/itzmesalamu',
   leetcode: "https://leetcode.com/itzmesalamu/",
-  devUsername: "said7388",
+  devUsername: "itzmesalamu",
   resume: "https://itzmesalamu.netlify.app"
 }
