@@ -8,5 +8,5 @@ export const contactsData = {
   twitter: 'https://twitter.com/itzmesalamu',
   stackOverflow: 'https://stackoverflow.com/users/itzmesalamu',
   leetcode: "https://leetcode.com/itzmesalamu/",
-  devUsername: "said7388"
+  devUsername: "itzmesalamu"
 }
