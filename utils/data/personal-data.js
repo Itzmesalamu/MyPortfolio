@@ -10,8 +10,8 @@ export const personalData = {
   facebook: 'https://www.facebook.com/itzmesalamu/',
   linkedIn: 'https://www.linkedin.com/in/itzmesalamu/',
   twitter: 'https://twitter.com/itzmesalamu',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/itzmesalamu',
+  stackOverflow: 'https://stackoverflow.com/users/itzmesalamu',
   leetcode: "https://leetcode.com/itzmesalamu/",
-  devUsername: "said7388",
+  devUsername: "itzmesalamu",
   resume: "https://itzmesalamu.netlify.app"
 }
